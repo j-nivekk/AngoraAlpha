@@ -1,2 +1,2 @@
-# AngoraAlpha
-temp repo for distributing Angora pre-releases.
+# Angora Alpha
+Temp repo for distributing Angora pre-releases.
