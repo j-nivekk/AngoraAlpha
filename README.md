@@ -1,19 +1,13 @@
-# Angora (Alpha)
-<p align="center"> <i>This is a temprary repo for distributing Angora pre-releases before its official launch.</i></p>
+# Angora.app (Alpha)
+<img align = "center" width="1920" alt="introducingangora" src="https://github.com/user-attachments/assets/9cca3c1b-bede-43ff-b5b3-84910dd29ef4" />
 <hr>
 <h1>
+<p>
+  How many steps should it take to annotate PDFs?
   <br>
-  <br>
-  <br>
-<p align="center">Wonderful work starts with gleaming tools.</p>
-  <br>
-  <br>
-  <br>
-  </h1>
-<p align="center"> 工欲善其事，必先利其器。 </p>
+  It takes <em>one</em> in Angora.
 </p>
-  <br>
-  <br>
-  <br>
+</h1>
 
-Angora. 
+## Angora. Document reader for the keen.
+**One-key**, customisable, tool-sensitive, cursor-independent, menu-free shortcuts, for **any tool**.
