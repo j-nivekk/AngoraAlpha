@@ -9,5 +9,5 @@
 </p>
 </h1>
 
-## Angora. Document reader for the keen.
+## Document reader for the keen.
 **One-key**, customisable, tool-sensitive, cursor-independent, menu-free shortcuts, for **any tool**.
